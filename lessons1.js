@@ -14,7 +14,7 @@ let myLess =[
         "title": "Physics",
         "location":"Dubai",
         "price": 150,
-        "image": "images/english.png",
+        "image": "images/physics.png",
         "availableInventory": 15
        
       }, 
